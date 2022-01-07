@@ -1,0 +1,22 @@
+{
+  "name": "gulp-practice",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeer-kr/gulp-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "bugs": {
+    "url": "https://github.com/codeer-kr/gulp-practice/issues"
+  },
+  "homepage": "https://github.com/codeer-kr/gulp-practice#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
