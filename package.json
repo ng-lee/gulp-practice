@@ -1,5 +1,6 @@
 {
   "name": "gulp-practice",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "repository": {
@@ -21,10 +22,12 @@
     "@babel/preset-env": "^7.16.7",
     "@babel/register": "^7.16.7",
     "gulp": "^4.0.2",
-    "gulp-pug": "^5.0.0"
-  },
-  "dependencies": {
+    "gulp-image": "^6.3.1",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "node-sass": "^7.0.1",
     "del": "^6.0.0",
-    "gulp-webserver": "^0.9.1"
+    "gulp-webserver": "^0.9.1",
+    "sass": "^1.47.0"
   }
 }
